@@ -155,6 +155,7 @@ palovammojen-hoito
 mitä-abdominoplastia-tarkoittaa
 abdominoplastian-tavallisimmat-komplikaatiot
 lippaluomien-leikkausindikaatio
+potilaalla-selkeä-virtsatiekivikohtaus-crp-85-ja-lämpö-385.-miten-toimit
 ruokatorviakalasia
 potilaalla-toistuvia-sappikivikohtauksia.-ultrassa-todettu-kiviä-sappirakossa.-alat-afos-ja-bil-lievästi-koholla.-mitä-seuraavaksi
 leikkaushaava-märkii-muutama-päivä-leikkauksen-jälkeen.-potilas-muuten-hyväkuntoinen.-mitä-tehdään
@@ -181,7 +182,7 @@ nissenin-fundoplikaatio---mikä-vaiva-hoidettu
 akuutti-alaraajaiskemia---mikä-oire-viittaa-raajan-elinkelpoisuuden-menettämiseen
 mikä-ei-aiheuta-akuuttia-alaraajaiskemiaa
 pankreatiitissa-antibiootin-käyttö
-femoraalityrä-mitkä-väittämät-oikein
+femoraalityrä-mikä-väittämä-oikein
 hydronefroosin-hoito
 yleisin-ercpn-komplikaatio-on
 todennäköisin-maksan-pahanlaatuinen-tuumori
@@ -196,7 +197,7 @@ kuinka-kauan-laparoskopian-jälkeen-ilma-näkyy-vapaassa-vatsaontelossa
 potilaalla-peniksen-tyvessä-laattamainen-kova-alue-mitä-epäilet
 potilaalla-ortostaattista-hypotensiota-mikä-lääke-eturauhasen-liikakasvuun
 vuotta-sitten-operoitu-sitten-rektumsyöpä-nyt-keuhkoissa-joku-tarkkarajainen-tiivistymä.
-radikaalisti-sädehoidettu-prostataca.-nadir-psa-2.5-ja-nyt-psa-025.-mitä-teet
+radikaalisti-sädehoidettu-prostataca.-nadir-psa-0.25-ja-nyt-psa-2.5.-mitä-teet
 palovamma-kiulusta-tulee-pari-pv-vamman-jälkeen-näyttämään-mitä-teet
 just-eläköitynyt-nainen-käynyt-plastikon-arviossa-reduktioplastiaan-plastikko-kieltäytynyt-miksi
 mikä-oikein-tyriä-koskien
@@ -214,7 +215,7 @@ potilastapaus-38
 pehmytkudosinfektion-hoidon-kulmakivi
 mihin-melanooma-metastasoi-ensimmäisenä
 mitä-tarkoittaa-gradus-4-sarkooma
-poisteettu-3cm-adenooma-nousevasta-kolonista-jossa-lievää-dysplasiaa.-miten-seurataan
+poistettu-3cm-adenooma-nousevasta-kolonista-jossa-lievää-dysplasiaa.-miten-seurataan
 potilaalla-meleenaa-ja-hb-84-mikä-todennäköisin-vuodon-alkuperä
 dm1-munuaisten-vajaatoiminta-haava-varpaassa.-reidessä-30x30-punainen-ja-kipeä-alue.
 calidus
