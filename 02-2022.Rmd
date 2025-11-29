@@ -135,7 +135,7 @@ Rakkotuumorin ensivaiheen hoito on virtsarakon höyläysleikkaus eli TUR-BT-toim
 
 ## Kiveskipu
 
-Ei tätä tarkemmin wikissä, ei myöskään vastausta annettu, mikä voisi antaa vinkkiä siitä, mitä on tarkalleen kysytty. Tässä muutamia periaatteita akuutistakiveskivusta: 
+Ei tätä tarkemmin wikissä, ei myöskään vastausta annettu, mikä voisi antaa vinkkiä siitä, mitä on tarkalleen kysytty. Tässä muutamia periaatteita akuutista kiveskivusta: 
 
 Akuutti kiveskipu johtuu yleensä kiveksen kiertymästä, kiveslisäkkeen (appendix testis) kiertymästä tai epididymiitistä
 
@@ -157,7 +157,7 @@ Akuutti kiveskipu johtuu yleensä kiveksen kiertymästä, kiveslisäkkeen (appen
 
 Ei vaihtoehtoja tai tarkempaa kysymyksenasettelua. Tässä hieman ihosiirteistä: 
 
-Ihosiirteet luokitellaan kokoihosiirteiksi tai osaihosiirteiksi, riippuen siitä, miten suuri osa ihon paksuudesta käytetään siirteenä. 
+Ihosiirteet luokitellaan kokoihosiirteiksi tai osaihosiirteiksi, riippuen siitä, miten suurta osaa ihon paksuudesta käytetään siirteenä. 
 
 - Ihon osista dermis vastaa ihon viskoelastisista ominaisuuksista ja on sen vuoksi ratkaiseva parantuneen ihosiirteen stabiliteetissa.
 - Kokoihosiirteessä on mukana koko epidermaalinen ja dermaalinen osuus mukaan lukien ihon apuelimet ja karvatupet. 
@@ -188,7 +188,7 @@ Rintarekonstruktiot esim. rintasyövän takia tehdyn mastektomian jälkeen (joko
 - Rintasyöpäleikkauksissa ja **varsinkin LD-kielekkeiden teon aikana voidaan vaurioittaa n. thoracicus longusta, joka aiheuttaa lapaluun siirotusta (enkelinsiipideformaatio)**
 - Haavan paranemisen ongelmat 
 - Haavareunan nekroosi -> konsultoi kirurgia (Hoitona revisioleikkaus, mahd. VAC (vacuum assisted closure). Myöhemmin kielekkeen uudelleen muotoilu ja/tai ihonsiirto tai rasvansiirto)
-- Jos kosmeettisesti ruma lopputulos ja potilasta häiritsee tämä, niin voi tehdä lähettee plastiikkakirurgille (rasvansiirto ja arven vapauttelu yms mahdollista). 
+- Jos kosmeettisesti ruma lopputulos ja potilasta häiritsee tämä, niin voi tehdä lähetteen plastiikkakirurgille (rasvansiirto ja arven vapauttelu yms mahdollista). 
  
 ![DIEP](images/diep.png)
 ![LD-kieleke](images/ld.png)
@@ -208,7 +208,7 @@ Ei tarkempaa kysymyksenasettelua tai vaihtoehtoja. Todennäköisesti kyseessä t
 
 - **Verenohennuslääkitys rajataan tapauksiin, joissa tukos on laaja-alainen tai se on edennyt päärunkoihin, isoon tai lyhyeen kehräslaskimoon yli 5 cm:n matkalle.**
   - Potilaan 10cm tukoksessa hoito on siis AK-hoito, koska muutos on yli 5cm 
-  - AK-hoidon kesto on 6vk ja annoksena tromboosiprofylaksia-annos (esim Xarelto 10mg 1x1 (ensisijainen) tai jos vuotoriski korostunut niin Eliquis 1,2mg 1x2 tai jos LMWH-hoito on indikoitua (esim.h yytymishäiriö tai aktiivinen syöpäsairaus tai jos on raskaana) niin enoksapariini 40mg 1x1 riippuen potilaan painosta ja munuaistoiminnasta)
+  - AK-hoidon kesto on 6vk ja annoksena tromboosiprofylaksia-annos (esim Xarelto 10mg 1x1 (ensisijainen) tai jos vuotoriski korostunut niin Eliquis 2,5mg 1x2 tai jos LMWH-hoito on indikoitua (esim. hyytymishäiriö tai aktiivinen syöpäsairaus tai jos on raskaana) niin enoksapariini 40mg 1x1 riippuen potilaan painosta ja munuaistoiminnasta)
 - Taudin oireita ja leviämistä kannattaa yrittää lievittää kevyellä lääkinnällisellä hoitosukalla ja anti-inflammatorisilla analgeeteilla. Mikrobilääkettä ei tarvita. 
 - Laaja-alaisesta pintalaskimotukoksesta tai toistuvista pienemmistäkin tukoksista kärsivä henkilö ohjataan akuuttivaiheen jälkeen erikoissairaanhoitoon, jotta taustalla mahdollisesti oleva laskimovajaatoiminta tulee hoidetuksi. Kajoavaa hoitoa ei suositella akuutissa vaiheessa. 
 
@@ -227,7 +227,7 @@ Ei vaihtoehtoja, mutta koita vastata ilman vinkkejä
 
 Paineoireita aiheuttava kysta voidaan tyhjentää aspiraatiolla. Toimenpideradiologi tyhjentää kystan ja täyttää ontelon joko etanolilla/polidokanolilla (pelkän tyhjennyksen jälkeen tilanne uusii todella usein ja nopeasti). Skleroterapia ei tosin poista uusiutumisriskiä. Tarkoitus on hoitaa oireettomaksi, ei hävittää kystaa kokonaan.
 
-Leikkaus voi joskus olla tarpeen, jos kysta oireilee (toistetusta) skleroterapiasta riippumatta jatkuvasti täyttymällä uudestaan. Voidaan koittaa aluksi toimenpiteenä radiofrekvenssiohoitoa. Teho paras yksilokeroisissa puhtaasti kystisissä muutoksissa: suuret kystat voivat tarvita useampia käsittelyitä.
+Leikkaus voi joskus olla tarpeen, jos kysta oireilee (toistetusta) skleroterapiasta riippumatta jatkuvasti täyttymällä uudestaan. Voidaan koittaa aluksi toimenpiteenä radiofrekvenssiohoitoa. Teho on paras yksilokeroisissa puhtaasti kystisissä muutoksissa: suuret kystat voivat tarvita useampia käsittelyitä.
 
 Kystat ovat hyvin yleisiä. Erilaisia kilpirauhaskyhmyjä on uä:llä tutkittuna ad 75% ihmisistä, naisilla enemmän. Näistä kystisiä on 15-25% ja benignejä 95%. 
   </div>
@@ -247,7 +247,7 @@ Ei vaihtoehtoja, mutta koita vastata ilman vinkkejä
 
 Syövät jaetaan erilaistuneeseen kilpirauhassyöpään (DTC, differentiated thyroid cancer, papillaarinen ja follikulaarinen karsinooma), medullaariseen ja huonosti erilaistuneeseen anaplastiseen syöpään. Erilaistuneen kilpirauhassyövän tyypillisin alaluokka on papillaarinen karsinooma (PTC). Harvinaisena löydöksenä kilpirauhasessa voidaan todeta lymfooma tai etäpesäke.
 
-PTC (papillary thyroid carcinoma) on tyypillinen nuorilla naisilla (30-40v). Tärkein riskitekijä on ionisoiva säteily. Kasvaa hitaasti, käyttäytyy yleensä varsin ”hyvänlaatuisesti” ja 5v-ennuste >99.5% (joissain lähteissä 97%). Voi levitä kaulan alueen imusolmukkeisiin, mutta etäpesäke ei yleensä heikenne ennustetta kovinkaan paljoa 
+PTC (papillary thyroid carcinoma) on tyypillinen nuorilla naisilla (30-40v). Tärkein riskitekijä on ionisoiva säteily. Kasvaa hitaasti, käyttäytyy yleensä varsin ”hyvänlaatuisesti” ja 5v-ennuste >99.5% (joissain lähteissä 97%). Voi levitä kaulan alueen imusolmukkeisiin, mutta etäpesäke ei yleensä heikennä ennustetta kovinkaan paljoa 
 
 Joissakin tilanteissa hoidoksi voi riittää pelkästään toisen lohkon poisto (riippuu mm. kasvaimen koosta – ei tarvitse tietää tarkemmin). 
  
@@ -313,7 +313,7 @@ Leikkaushoidon painoindeksirajat:
   - Tyypin 2 diabetesta sairastavalla voidaan lisäksi harkita leikkausta jo painoindeksillä 30–35 kg/m2, jos lihavuuden ja diabeteksen konservatiivinen hoito ei ole tuottanut riittävää tulosta, sillä satunnaistetuissa tutkimuksissa näillä potilailla tulokset ovat olleet vastaavia kuin potilailla, joiden painoindeksi on yli 35 kg/m2
   - Painoindeksinä käytetään leikkausharkintaa edeltävää painoindeksiä. Jos potilas laihduttaa tämän jälkeen niin, että painoindeksi on ennen leikkausta pienempi kuin edellä mainitut rajat, leikkaus voidaan tehdä potilaan niin toivoessa
 
-_Leikkauksen edellytyksenä on myös , ettei potilaalla ole päihdeongelmaa!_
+_Leikkauksen edellytyksenä on myös, ettei potilaalla ole päihdeongelmaa!_
 
 **Leikkausmenetelmistä:**
 

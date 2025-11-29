@@ -3,7 +3,7 @@
     "path": "C:/Lipasto/Projektit/oppaat/Tärpit/Kirurgiatärpit/02-2022.Rmd",
     "project_path": "02-2022.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "895818420",
     "contents": "",
     "dirty": false,
     "created": 1764090339652.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "1388,42",
-        "scrollLine": "1386"
+        "cursorPosition": "315,34",
+        "scrollLine": "298"
     },
     "folds": "",
-    "lastKnownWriteTime": 1764415330,
+    "lastKnownWriteTime": 1764424894,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1764415330914,
+    "last_content_update": 1764424894765,
     "read_only": false,
     "read_only_alternatives": []
 }
