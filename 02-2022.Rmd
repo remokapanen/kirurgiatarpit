@@ -463,7 +463,7 @@ Kaikkia pieniä (< 4 cm) munuaiskasvaimia ei tarvitse hoitaa erityisesti, jos po
 
 ![](images/munuaistuumorialgoritmi.png)
 
-## Vatsa-aorttan aneurysmat – miten oireilee? +hoito
+## Vatsa-aortan aneurysmat – miten oireilee? +hoito
 
 Ei vaihtoehtoja wikissä, mutta tässä tärkeimmät: 
 
@@ -482,7 +482,7 @@ Vatsa-aortan aneurysman hoito on ensisijaisesti tilanteen seuranta ja riskitekij
 Jos koko > 50 mm, niin lähete vkir (naisilla 45 mm) ja aneurysma mahdollisesti hoidetaan operatiivisesti. Käytännön toimenpiderajaksi on asetettu 55 mm miehillä (50 mm naisilla), sillä tätä pienemmät aneurysmat repeävät harvoin.
 
 - Hoitovaihtoehdot: 
-  - Suonensisäisen stenttiproteesin (EVAR, endovascular aneurysm repair) asentaminen on nykyään ensisijainen AAA:n hoito, sillä sen aiheuttama välitön riski potilaalle on pienempi, erityisesti revenneen AAA:n osalta
+  - Suonensisäisen stenttiproteesin (EVAR, endovascular aneurysm repair) asentaminen on nykyään ensisijainen AAAn hoito, sillä sen aiheuttama välitön riski potilaalle on pienempi, erityisesti revenneen AAAn osalta
   - Osa aneurysmista avoleikataan
   - Hoitomuodon valintaan vaikuttavat potilaan elinajan ennuste (nuoremmat voidaan avoleikata useammin), yleistila sekä aneurysman muoto ja sijainti suhteessa aortan valtimohaaroihin
     - Avoleikkaus (Y-proteesi) ei vaadi jatkoseurantaa, koska myöhäiskomplikaatiot avoleikkauksen jälkeen ovat harvinaisia. Akuutimmat komplikaatiot taas yleisempiä ja toimenpiteeseen liittyvä kuolleisuus on n. 3-4 % kirjallisuuden mukaan. Kuitenkin on hyvä pitkäaikaisennuste jos akuutista vaiheesta selviää -> nuorempia potilaita leikataan enemmän Y-proteesilla kuin vanhoja potilaita.   
@@ -500,7 +500,7 @@ Ihosyöpä on yleisin syöpätyyppi, mutta vain 1% syöpäkuolemista johtuu ihos
 
 Tärkeimmät tyypit ovat melanooma ja ei-melanoottiset syövät kuten basaliooma (tyvisolusyöpä) ja okasolusyöpä (levyepiteelisyöpä). **Basaliooma on yleisin ihosyöpä, sen jälkeen okasolusyöpä ja melanooma**
 
-- Tosin Syöpärekisterin mukaan (toiseksi) yleisin vallitsevuuden perusteella on melanooma ja sen jälkeen okasolusyöpä, mutta ilmaantuvuudessa ne ovat tasoissa (v. 2018 melanoomaa 1658 kpl ja okasolusyöpää 1700 kpl)
+- Tosin Syöpärekisterin mukaan toiseksi yleisin vallitsevuuden perusteella on melanooma ja sen jälkeen okasolusyöpä, mutta ilmaantuvuudessa ne ovat tasoissa (v. 2018 melanoomaa 1658 kpl ja okasolusyöpää 1700 kpl)
 
 
 ## Gastroskopiat
@@ -625,7 +625,7 @@ Laskimovajaatoiminnan kajoavan hoidon vaihtoehtoja ovat EVTA (termoablaatio), UG
 
 - EVTA (endovascular thermal ablation) on nykyään ensisijainen kajoava hoitomenetelmä pinnallisen laskimopäärungon vajaatoiminnassa ja on käytännössä korvannut avokirurgian. Se voidaan suorittaa laserablaationa (EVLA, endovenous laser ablation) tai radiotaajuusablaationa (FRA, radiofrequency segmental thermal ablation, rf-tekniikka eli radiofrekvenssitekniikka). **Ensisijaisena näistä voidaan pitää laserablaatiota.**
 
-**Termoablaatiossa hoidettava laskimo (useimmiten vena saphena magna tai parva) punktoidaan ja laserkuitu uitetaan sisään.** Se viedään vajaatoimintamuutosten läpi proksimaaliselle puolelle safenofemoraalisen tai safenopopliteaalisen junktion distaalipuolelle pitäen turvamarginaalin syvään laskimoon. Hoidettavan laskimon ympärille injusoidaan puudutus. Peruutellessa ulos laseroidaan suonta, mikä johtaa laskimon endoteelin vaurioon ja johtaa pintalaskimon fibrotisoitumiseen kiinni, jolloin se ei enää voi aiheuttaa vajaatoiminta-oireita. 
+**Termoablaatiossa hoidettava laskimo (useimmiten vena saphena magna tai parva) punktoidaan ja laserkuitu uitetaan sisään.** Se viedään vajaatoimintamuutosten läpi proksimaaliselle puolelle safenofemoraalisen tai safenopopliteaalisen junktion distaalipuolelle pitäen turvamarginaalin syvään laskimoon. Hoidettavan laskimon ympärille injisoidaan puudutus. Peruutellessa ulos laseroidaan suonta, mikä johtaa laskimon endoteelin vaurioon ja johtaa pintalaskimon fibrotisoitumiseen kiinni, jolloin se ei enää voi aiheuttaa vajaatoiminta-oireita. 
 
 - Merkittävä osa termoablaatioista voidaan toteuttaa poliklinikkaoloissa. Erityistä jälkiseurantaa ei tarvita, ja potilas voi mobilisoitua heti. 
 - **Komplikaatiot ovat harvinaisia ja tärkein tiedostaa on syvä laskimotukos,** jonka takia hoito on vasta-aiheinen raskaana oleville, aktiivisen pintalaskimotukoksen aikana ja syvien laskimoiden obstruktiossa sekä niille, joilla on avoin foramen ovale (mahdollisuus paradoksiselle embolialle, kun laskimotrombi pääsee avoimen foramen ovalen kautta vasempaan eteiseen ja valtimoverenkiertoon).
@@ -649,7 +649,7 @@ Käyty jo läpi aikaisemmissa tärpeissä, mutta koita nyt taas tuoda indikaatio
      
 Oireetonta laskimovajaatoimintaa ei sinänsä tarvitse hoitaa konservatiivisestikaan. Jos potilas kokee oireita, mutta ei vielä täytä kajoavan hoidon kriteerejä, niin hoito on pääasiassa vain kompressiohoitoa (paljon mitään muuta ei voida tehdä). Kompressiohoito ei kuitenkaan näytä estävän suonikohjuja pahenemasta, mutta se vähentää laskimovajaatoiminnan oireita ja hyödyttää monia potilaita. Kompressiohoidolla on kuitenkin heikko hoitomyöntyvyys. Komplisoituneessa taudissa kompressiohoito on kuitenkin äärimmäisen tärkeä ja siitä on hyötyä laskimohaavojen hoidossa ja ehkäisyssä. 
 
-**Kajoavan hoidon indikaatiot ovat seuraavat: komplisoitunut tauti (C4-C6), toistuvat pintalaskimotukokset/laaja pintalaskimotukos, vuotavat suonikohjut tai merkittävää haittaa aiheuttava komplisoitumaton tauti (kunhan BMI <35).** Merkittävä haitta tarkoittaa haittaluokka 2-3 (potilas ei pysty työskentelemään ilman kompressiohoitoa tai ei pysty työskentelemään siitä huolimatta). 
+**Kajoavan hoidon indikaatiot ovat seuraavat: komplisoitunut tauti (C4-C6), toistuvat pintalaskimotukokset/laaja pintalaskimotukos, vuotavat suonikohjut tai merkittävää haittaa aiheuttava komplisoitumaton tauti (kunhan BMI <35).** Merkittävä haitta tarkoittaa haittaluokkaa 2-3 (potilas ei pysty työskentelemään ilman kompressiohoitoa tai ei pysty työskentelemään siitä huolimatta). 
 
 ![](images/pintalaskimovajaatoimintaalgoritmi.png)
 ![](images/laskimovajaatoimintahaittaluokka.png)
@@ -669,7 +669,7 @@ Ulkusperforaatiossa todetaan vapaata ilmaa vatsan TT:ssä (kuten muutenkin suoli
 
 Hoidossa on olennaisinta varhainen diagnoosi, jonka jälkeen aloitetaan kiireellisesti laajakirjoinen mikrobilääkehoito sekä nesteresuskitaatio. Itse hoito on päivystyksellinen leikkaus 
 
-- Leikkaukseksi riittää lähes aina vatsaontelon huuhtelu ja yksinkertainen perforaation sulku knoppiompeleiden ja omenttipedikkelin kanssa tai ilman sitä. Alle 10 % potilaista tarvitsee ventrikkeliresektiota. Leikkauksen yhteydessä ventrikkeliulkuksesta otetaan histologinen näyte, sillä mahasyöpä voi joskus tulla ilmi ulkusperforaation muodossa. Ventrikkeliulkuksen tapauksesas tulee myös tehdä kontrolligastroskopia maligniteettiriskin takia. 
+- Leikkaukseksi riittää lähes aina vatsaontelon huuhtelu ja yksinkertainen perforaation sulku knoppiompeleiden ja omenttipedikkelin kanssa tai ilman sitä. Alle 10 % potilaista tarvitsee ventrikkeliresektiota. Leikkauksen yhteydessä ventrikkeliulkuksesta otetaan histologinen näyte, sillä mahasyöpä voi joskus tulla ilmi ulkusperforaation muodossa. Ventrikkeliulkuksen tapauksessa tulee myös tehdä kontrolligastroskopia maligniteettiriskin takia. 
   - Laparoskooppinen kirurgia on yleistynyt, ja sen etuna on leikkauksen jälkeisen kipulääkityksen vähäisempi tarve, vähäisempi kuolleisuus ja komplikaatioriski sekä lyhyempi sairaalassaoloaika. Toisaalta laparoskooppisella tekniikalla tehtyjen leikkausten kesto on pitempi verrattuna avoleikkauksiin.
 
 ## Haimatulehduksen vaikeus, mikä korreloi?
@@ -747,7 +747,7 @@ Vähän kryptinen kysymys wikissä, mutta mahdollisesti kysytty esim. joku näis
 - Mikä on yleisin nivustyrätyyppi? 
   - Epäsuora (mediaalinen) nivustyrä on yleisin. 
    - Nivustyrät jaetaan lateraalisiin (epäsuora) ja mediaalisiin (suora) sen mukaan, työntyykö tyräpussi epigastristen verisuonten (arteria ja vena epigastrica inferior) lateraali- vai mediaalipuolelta. Molemmat voivat olla myös yhtä aikaa (hernia inguinalis combinata).
-   - Lateraalinen tyrä (kongenitaalinen) on useimmiten lasten ja nuorten aikuisten sairaus. Käyttää tyräporttina heikosti sulkeutunutta aukkoa fascia transversaliksessa ( nivuskanavan sisäaukko)
+   - Lateraalinen tyrä (kongenitaalinen) on useimmiten lasten ja nuorten aikuisten sairaus. Käyttää tyräporttina heikosti sulkeutunutta aukkoa fascia transversaliksessa (nivuskanavan sisäaukko)
     - Mediaalinen tyrä (hankinnainen) on pääasiassa vanhempien miesten ongelma. Työntyy ulos vatsaontelosta käyttämällä hankittua heikkoa kohtaa fascia transversaliksessa ja mahdollisesti työntyy vain nivuskanavan ulomman eikä sisemmän suuaukon läpi. 
 
 - Mikä tyrä itse asiassa on? 
@@ -805,6 +805,7 @@ Vastaus mahdollisesti ollut tyyppiä: **Haiman pään (caput) duktaalinen adenok
   - Erotusdiagnostiikassa tulee huomioida muut kasvaimet ja kasvainten etäpesäkkeet, krooninen haimatulehdus ja autoimmuunihaimatulehdus. Hyvistä kuvantamismenetelmistä huolimatta pahanlaatuisen kasvaimen ja tulehduksellisen muutoksen erottaminen toisistaan voi välillä olla hyvin haastavaa.
 
 Mikäli kuvausten perusteella epäillään vahvasti haimasyöpää ja kasvain vaikuttaa paikalliselta, kudosnäytteitä ei tarvita, vaan voidaan edetä suoraan leikkaukseen
+
 - Ikterus ei ole este leikkaukselle, mikäli leikkausaika saadaan järjestymään nopeasti, eikä potilaalla ole kolangiittia tai elinhäiriöitä
 - Sappitiestentin asetus ennen leikkausta suurentaa infektiokomplikaatioiden riskiä, joten jos leikkaukseen on mahdollista edetä suoraan, ei sappiteiden stenttausta suositella
 - Onkologisia hoitoja ei voida antaa ikteeriselle potilaalle
@@ -826,7 +827,7 @@ Mikäli kuvausten perusteella epäillään vahvasti haimasyöpää ja kasvain va
 
 Ensihoito ylä-GI-vuodossa on suoniyhteyden avaaminen ja punasolusiirtorajan asettaminen (usein 70g/l stabiileilla potilailla, 90ish g/l instabiileilla tai jos krooninen sydänsairaus), korkea-annoksisen protonipumpun estäjä (PPI)-hoidon aloittaminen (esim. pantopratsoli 80 mg i.v. jatkuen infuusiona 8 mg/t; annetaan siis normaalia isompi annos, johon PPI x2 viittaa) ja jos potilaalla maksakirroosi tai epäillään vuodon syyksi ruokatorven suonikohjuja -> ensiavussa vasopressiini- (Glypressin®) tai somatostatiinianalogilääkitys (Sandostatin®) + antibiootti tähystystä odotellessa.
 
-a. Potilas on oksentanut verta (hematemeesi) kahdesti. Kyseessä on merkittävä ylä-GI-vuoto (aina vaarallinen), vaikka tilanne olisi juuri nyt stabiili eikä potilasta voi kotiuttaa, vaan vaatii sairaalahoitoa ja pikaisen gastroskopian. Skopiassa etsitään vuotopaikka eli selvitetään diagnoosi, saadaan käsitys verenvuodon merkeistä ja hoidetaan vuoto endoskooppisesti. Suurin osa vuodon syynä olevista löydöksistä ei tarvitse mitään muuta hoitoa. Jos potilaalla ei katsota olevan uusintavuodon riskiä, hänet voidaan turvallisesti kotiuttaa
+a: Potilas on oksentanut verta (hematemeesi) kahdesti. Kyseessä on merkittävä ylä-GI-vuoto (aina vaarallinen), vaikka tilanne olisi juuri nyt stabiili eikä potilasta voi kotiuttaa, vaan vaatii sairaalahoitoa ja pikaisen gastroskopian. Skopiassa etsitään vuotopaikka eli selvitetään diagnoosi, saadaan käsitys verenvuodon merkeistä ja hoidetaan vuoto endoskooppisesti. Suurin osa vuodon syynä olevista löydöksistä ei tarvitse mitään muuta hoitoa. Jos potilaalla ei katsota olevan uusintavuodon riskiä, hänet voidaan turvallisesti kotiuttaa
 
 b: Potilaan tulee olla ravinnotta, koska kohta tullaan tekemään gastroskopia. 
 
@@ -874,7 +875,7 @@ Ei vaihtoehtoja, tässä mahdollinen toimintamalli:
 
 1) Anamneesi + status (tuseeraus myös)
 
-2) Labrat: U-KemSeul, U-Solut x2 Baktviljeljy 
+2) Labrat: U-KemSeul, U-Solut x2, U-BaktVi
 
 3) Makrohematurian aiheuttaja on löydettävissä yli 90 %:ssa tapauksista. Tärkeimpiä poissuljettavia sairauksia ovat virtsateiden kasvaimet sekä glomerulussairaudet. Tulee aina tehdä lähete urologisiin jatkotutkimuksiin, ellei syy ole virtsatietulehdus tai verikontaminaatio. Edeltävästi on suositeltavaa ohjelmoida virtsan irtosolututkimus ja munuaisten kaikututkimus. Jos epäillään IgA-nefropatiaa (samanaikainen valkuaisvirtsaisuus, alentunut eGFR, korkea verenpaine), laaditaan lähete nefrologille
 
@@ -899,7 +900,7 @@ Suurin osa rinnan erityksen taustalla olevista syistä on hyvänlaatuisia.
 Erityksen konsistenssi ja väri voivat vaihdella ja on tärkeää selvittää: se voi olla paksua tahnaa tai ohutta ja vetistä; vihreää, ruskeaa, selkeän veristä tai keltaista ja kirkasta
 
 - Patologinen, lisätutkimuksia aiheuttava erite on yksipuoleista, seroosista tai veristä. Patologinen erite tulee siis spontaanisti vain toisesta rinnasta ja yhdestä tiehyestä. Syövän riski on suurempi verisen kuin seroosisen eritteen taustalla.
-  - Erittämisen perusselvittelyihin avoterveydenhuollossa kuuluu kliinisen tutkimuksen lisäksi mammografia (yli 35-vuotiailla) ja rintojen kaikukuvaus. Mikäli näissä kuvissa näkyy pesäke, tulee tästä ottaa paksuneulanäyte rintasyövän poissulkemiseksi. . Jos eritys on kirkasta, selvästi veristä tai oluen väristä, erittävä tiehyt tutkitaan rintatiehyen varjoainekuvauksella eli duktografialla, jolloin erittävään rintatiehyeen ruiskutetaan varjoainetta, jonka jälkeen rinta kuvataan mammografialla. Näin mahdollinen rintatiehyen patologinen tukkeuma kuvautuu puutosvarjona varjoaineella täyttyneessä tiehyessä
+  - Erittämisen perusselvittelyihin avoterveydenhuollossa kuuluu kliinisen tutkimuksen lisäksi mammografia (yli 35-vuotiailla) ja rintojen kaikukuvaus. Mikäli näissä kuvissa näkyy pesäke, tulee tästä ottaa paksuneulanäyte rintasyövän poissulkemiseksi. Jos eritys on kirkasta, selvästi veristä tai oluen väristä, erittävä tiehyt tutkitaan rintatiehyen varjoainekuvauksella eli duktografialla, jolloin erittävään rintatiehyeen ruiskutetaan varjoainetta, jonka jälkeen rinta kuvataan mammografialla. Näin mahdollinen rintatiehyen patologinen tukkeuma kuvautuu puutosvarjona varjoaineella täyttyneessä tiehyessä
     - Kirurgin konsultaatiota tarvitaan, mikäli kuvantamalla todetaan rintatiehyen sisäinen kasvain tai rintasyöpä tai jos tilanne jää epäselväksi. 
 
 **Galaktorrea eli maidoneritys (tai sen kaltaisen nesteen eli vaalea/vihertä/kellertävä/rusehtava/sinertävä/harmaa erite) miehillä, murrosikäisillä ja lapsilla on selvitettävä pikaisesti ja tarvittaessa endokrinologia konsultoiden, mutta naisilla se on hyvänlaatuinen ilmiö eikä ole aihe kuvantamiselle**
@@ -964,7 +965,7 @@ Ei vaihtoehtoja, mutta tässä alla olevassa kuvassa lähetteeseen kuuluvat asia
   <div class="solution-content">
      c
 
-Virtsateiden rekonstruktio voi olla tarpeen esim rakkosyövän hoidon yhteydessä, jos rakko poistetaan tai jopa silloin, kun yliaktiivinen rakko ei vastaa muulle hoidolle. Virtsateiden rekonstruktio voidaan toteuttaa usein eri tavoin. Tyypillisimpinä vaihtoehtoina ovat pidätyskyvytön avanne ("Bricker"), normaalia kautta tyhjenevä ortotooppinen suolirakko ("Studer") tai pidätyskykyinen avanne ("Kock", "Mitrofanoff", "Indiana"). 
+Virtsateiden rekonstruktio voi olla tarpeen esim. rakkosyövän hoidon yhteydessä, jos rakko poistetaan tai jopa silloin, kun yliaktiivinen rakko ei vastaa muulle hoidolle. Virtsateiden rekonstruktio voidaan toteuttaa usein eri tavoin. Tyypillisimpinä vaihtoehtoina ovat pidätyskyvytön avanne ("Bricker"), normaalia kautta tyhjenevä ortotooppinen suolirakko ("Studer") tai pidätyskykyinen avanne ("Kock", "Mitrofanoff", "Indiana"). 
 
 Eugen Brickerin vuonna 1950 julkaisema ureteroileokutaneostomia on edelleen käytetyin virtsadiversion leikkausmenetelmä ja tavallisin pidätyskyvytön virtsa-avanne. Tässä niin sanotussa Brickerin leikkauksessa virtsanjohtimet yhdistetään sykkyräsuolen loppuosasta (terminaalinen ileum) eristetyn 15–20 cm:n pituisen osan vatsaontelon puoleiseen päähän. Loppupää tuodaan vatsanpeitteiden läpi tyypillisesti oikealle alavatsalle avanteeksi. Jos sykkyräsuolen loppuosaa ei voida käyttää, voidaan käyttää paksusuolen osaa.
 
@@ -984,7 +985,7 @@ d: Yksinkertaisimmassa pidätyskyvyttömässä avanteessa virtsajohtimet nosteta
 
 Ei vaihtoehtoja, mutta tässä tärkeimmät: 
 
-**Hypertensiivinen säärihaava** eli Martorellin haava on epätavallinen mutta ei harvinainen säärihaavan muoto. Martorellin haava on pitkään huonossa hoitotasapainossa olleen verenpainetaudin komplikaatio 40-80-vuotiailla potilailla, joista osa sairastaa myös diabetesta. 
+**Hypertensiivinen säärihaava** eli Martorellin haava on epätavallinen, mutta ei harvinainen säärihaavan muoto. Martorellin haava on pitkään huonossa hoitotasapainossa olleen verenpainetaudin komplikaatio 40-80-vuotiailla potilailla, joista osa sairastaa myös diabetesta. 
 
 - Kliininen kuva on selkeä ja tunnusomainen: kyseessä on erittäin kivulias pinnallinen nekroottinen haava, jossa on purppuran punainen reunus. Paraneminen on yleensä hidasta. 
 
@@ -1074,7 +1075,7 @@ Akuutissa alaraajaiskemiassa revaskularisaation jälkeen raajan tilannetta on se
   <div class="solution-content">
      a
 
-Kriittinen iskemia (CLI/CLTI) viittaa krooniseen raajaa uhkaavaan iskemiaan. Keskeisimmät oireet ja löydökset ovat lepokipu ja/tai kudosvaurio (haava tai kuolio), jonka on todettu johtuvan alentuneesta verenkierrosta (eli siis >2vk parantumaton valtimohaava tai lepo kipu + ABI < 0,4 tai nilkkapaine alle 50 mmHg tai varvaspaine alle 30 mmHg). 
+Kriittinen iskemia (CLI/CLTI) viittaa krooniseen raajaa uhkaavaan iskemiaan. Keskeisimmät oireet ja löydökset ovat lepokipu ja/tai kudosvaurio (haava tai kuolio), jonka on todettu johtuvan alentuneesta verenkierrosta (eli siis >2vk parantumaton valtimohaava tai lepokipu + ABI < 0,4 tai nilkkapaine alle 50 mmHg tai varvaspaine alle 30 mmHg). 
 
 Lepokipu ilmenee tyypillisesti yöllä vaaka-asennossa. Kipua lievittää jalan riiputtaminen alaspäin, istuva asento (potilas usein nukkuu istuen) tai pystyasentoon nousu (potilas usein tulkitsee kävelyn auttavan). 
 
@@ -1086,7 +1087,7 @@ c: Ei ole tyypillinen alaraajaiskemian oirekuva
   </div>
 </div>
 
-## Peräaukon fissuura ensilinjan hoito suolen toiminnan normaalistamisen jälkeen?
+## Peräaukon fissuuran ensilinjan hoito suolen toiminnan normaalistamisen jälkeen?
 
 Ei vaihtoehtoja, mutta tässä anaalifissuuroista: 
 
@@ -1106,18 +1107,18 @@ Akuutilla, päivistä viikkoihin kestäneellä haavaumalla on hyvä taipumus par
 - Fissuura voi kuitenkin kroonistua (>8vk kesto), koska akuutti anaalifissuura on kipeä ja aiheuttaa sisemmän sulkijalihaksen spasmin, joka heikentää peräaukon verenkiertoa ja kudoksen happeutumista. Tämän takia fissuura tyypillisesti tulee klo 6:een, koska posteriorinen osa on heikosti perfusoitu -> trauma paranee jo normaalistikin hitaasti. 
   - 6-8 viikon kuluessa haavauman kroonistuessa sen reunat kiinteytyvät ja haavan pohjalla on nähtävissä sisäsulkijan säikeet. Tyyppimuutoksia ovat yläpuolella oleva kookkaampi anaalipapilla ja alapuolella vartijapoimuksi kutsuttu ihopoimu.
 
-Kroonista haavaumaa hoidetaan vähentämällä sulkijalihaksen tonusta ensisijaisesti voiteilla (nitraaattivoiteet tai kalsiuminestäjävoiteet) tai mahdollisesti botuliinitoksiinipistoksella tai tarpeen mukaan kirurgisella hoidolla (sfinkterotomia)
+Kroonista haavaumaa hoidetaan vähentämällä sulkijalihaksen tonusta ensisijaisesti voiteilla (nitraattivoiteet tai kalsiuminestäjävoiteet) tai mahdollisesti botuliinitoksiinipistoksella tai tarpeen mukaan kirurgisella hoidolla (sfinkterotomia)
 
 - Ex tempore -kalsiuminestäjävoiteiden (diltiatseemi tai nifedipiini) etu on, että ne eivät aiheuta päänsärkyä kuten nitraattivoide (esim. Rectogesic; on myös kalliimpi). 
   - N. 50 % potilaista paranee voidehoidolla
-  - Jos potilas ei vastaa voidehoitoon parissa kuukaudessa, tulee hänet lähettä ESH leikkausarvioon (kirurgisessahoidossa katkaistaan sisemmän sulkijalihaksen säikeitä (sfinkterotomia). Itse fissuuraan ei tarvitse kajota.) 
+  - Jos potilas ei vastaa voidehoitoon parissa kuukaudessa, tulee hänet lähettää ESH leikkausarvioon (kirurgisessa hoidossa katkaistaan sisemmän sulkijalihaksen säikeitä (sfinkterotomia). Itse fissuuraan ei tarvitse kajota.) 
     - Lateraalinen sfinkterotomia on peräaukon haavauman tehokkain hoito - yli 90 % haavoista paranee. Toimenpiteen jälkeen 3-30 %:lle potilaista kehittyy kuitenkin kaasunkarkailua tai tuhrimista. Tämän vuoksi haavauman kirurginen hoito yleensä aloitetaan revisiolla eli fibroottisten reunojen, vartijapoimun ja anaalipapillan poistamisella yhdistettynä botuliinipistokseen; Paranemisen todennäköisyys ei ole yhtä hyvä kuin sfinkterotomiassa, mutta pidätyskyvyttömyyden riski on vain 1-2 %:n luokkaa. 
 - Voidehoito voidaan myös aloittaa heti akuutissakin fissuurassa, jos oireet ovat voimakkaat. Peräaukon haavaumista 60–80 % kuitenkin paranee spontaanisti eikä voidehoitoa usein tarvita akuutissa vaiheessa. 
 
 **Tiivistettynä hoito ja aiheet ESH-lähetteelle:**
 
 1) Akuutissa vaiheessa (6-8vk) hoida taustatekijät ja kipu (puuduttavat voiteet). Istumakylpyjä voi ehdottaa. Vaikeassa tapauksessa voi aloittaa diltiatseemivoiteen heti. 
-2) Haavan kroonistuessa ensisijaisesti aloitetaan voidehoito (ensisijaisesti diltiatseemi). Jos potilas ei vastaa voidehoitoon 6-8 viikossa, tulee hänet lähettä erikoissairaanhoitoon leikkausarvioon. Usein tehdään ensiksi botuliinipistoshoitokokeilu, mutta tarvittaessa edetään lateraaliseen sfinkterotomiaan. 
+2) Haavan kroonistuessa ensisijaisesti aloitetaan voidehoito (ensisijaisesti diltiatseemi). Jos potilas ei vastaa voidehoitoon 6-8 viikossa, tulee hänet lähettää erikoissairaanhoitoon leikkausarvioon. Usein tehdään ensiksi botuliinipistoshoitokokeilu, mutta tarvittaessa edetään lateraaliseen sfinkterotomiaan. 
 3) Potilas tulee mahdollisesti lähettää ESH myös, jos todetaan epätyypillisesti sijaitseva (lateraalinen) anaalifissuura epäiltäessä Crohnin tautia tai todetaan poikkeuksellisen näköinen haavauma, joka herättää epäilyn maligniteetista. 
 
 ## Mikä voi aiheuttaa PSA:n nousua? 
@@ -1146,7 +1147,7 @@ Potilaalla on todennäköisesti krooninen mesenteriaali-iskemia.
 
 Kroonista mesenteriaali-iskemiaa kutsutaan usein "suoliston angiinaksi". Sen taustalla on lähes aina valtimokovettumataudin aiheuttamat tukokset tai tiukat ahtaumat suolilievevaltimoissa (yleensä vähintään 2/3 suoliston valtimopäähaaroista (CA, SMA, IMA) tulee olla ahtautuneet, jotta oireita ilmenee; yhden suonen tauti on siis useimmiten oireeton). Ilmenee vatsakipuna, mikä alkaa pian ruokailun jälkeen ja kestää 1–2 tuntia (johtuu lisääntyneestä hapentarpeesta suolistossa ruokaa liikuteltaessa; sama periaate kuin urheilun aiheuttamassa rintakivussa jos potilaalla on sepelvaltimotauti; myös itse urheilu voi pahentaa mesenteriaali-iskemiaa). Ruokailuun liittyvät kivut johtavat ruokahalun heikkenemiseen, syömisen välttelyyn ja lopulta tahattomaan laihtumiseen.
 
-Vaikka oirekuvan, statuksen (mahdollisesti vatsan alueelta kuuluva suhahtava sivuääni (bruit)) ja angiografian perusteella diagnoosi olisi selvä, niin muut vatsakivun syyt on kuitenkin suljettava pois, ja ennen hoitopäätöstä tehdään yleensä gastroskopia (löytyy varsin usein atrofiaa tai haavaumia, jotka eivät liity helikobakteeriin tai tulehduskipulääkkeiden käyttöön. Normaali endoskopialöydös ei kuitenkaan sulje pois mesenteriaali-iskemiaa. Keliakian mahdollisuus on syytä selvittää potilailta, joilla esiintyy painon laskua.). Tällekin potilaalle oltiin siis jo tehty gastroskopia, kolonoskopia ja vatsan TT. Tavallista on, että kroonisen vatsakivun vuoksi tehdään laajasti muita tutkimuksia, mitkä eivät johda diagnoosiin. Siksi on tärkeää muistaa epäillä kroonista mesenteriaali-iskemiaa. Diagnoosi absoluuttisesti varmistuu vasta, kun kivut helpottavat onnistuneen revaskularisaation jälkeen.
+Vaikka oirekuvan, statuksen (mahdollisesti vatsan alueelta kuuluva suhahtava sivuääni (bruit)) ja angiografian perusteella diagnoosi olisi selvä, niin muut vatsakivun syyt on kuitenkin suljettava pois, ja ennen hoitopäätöstä tehdään yleensä gastroskopia (löytyy varsin usein atrofiaa tai haavaumia, jotka eivät liity helikobakteeriin tai tulehduskipulääkkeiden käyttöön. Normaali endoskopialöydös ei kuitenkaan sulje pois mesenteriaali-iskemiaa. Keliakian mahdollisuus on syytä selvittää potilailta, joilla esiintyy painon laskua). Tällekin potilaalle oltiin siis jo tehty gastroskopia, kolonoskopia ja vatsan TT. Tavallista on, että kroonisen vatsakivun vuoksi tehdään laajasti muita tutkimuksia, mitkä eivät johda diagnoosiin. Siksi on tärkeää muistaa epäillä kroonista mesenteriaali-iskemiaa. Diagnoosi absoluuttisesti varmistuu vasta, kun kivut helpottavat onnistuneen revaskularisaation jälkeen.
 
 Kroonisen mesenteriaali-iskemian ensisijainen hoito on endovaskulaariset hoidot: pallolaajennus ja stentit. Kirurginen hoito on vaihtoehto potilaille, joilla suonensisäinen hoito ei ole mahdollista tai järkevää (esim. pitkä totaalitukos, vaskuliitti tai muu tukoksen syy kuin valtimokovettumatauti) tai jos suonensisäinen hoito ei ole onnistunut. Tällöin tehdään ohitus yleensä ylemmän suolilievevaltimon ja sisusvaltimorungon alueelle joko antegradisesti (ohituksen lähtökohta aortassa sisusvaltimorungon yläpuolella) tai retrogradisesti (ohitus munuaisvaltimotason alapuolisesta aortasta tai lonkkavaltimosta).
 

@@ -80,7 +80,7 @@ laskimovajaatoiminnan-riskitekijät
 hb-82-melena-ei-verioksennusta.-missä-vuoto-todennäköisimmin
 potilastapaus-37
 munuaissyövät
-vatsa-aorttan-aneurysmat-miten-oireilee-hoito
+vatsa-aortan-aneurysmat-miten-oireilee-hoito
 ihosyövät
 gastroskopiat
 mahahaava-ja-maligniteetit
@@ -112,7 +112,7 @@ martorellin-ulkus
 akuutti-alaraajaiskemia-mikä-tärkein-aiheuttaja
 akuutti-alaraajaiskemia-hoito
 kriittisen-kroonisen-alaraajaiskemian-oire-on
-peräaukon-fissuura-ensilinjan-hoito-suolen-toiminnan-normaalistamisen-jälkeen
+peräaukon-fissuuran-ensilinjan-hoito-suolen-toiminnan-normaalistamisen-jälkeen
 mikä-voi-aiheuttaa-psan-nousua
 potilaalla-aso-tauti.-oireena-laihtuminen-ja-postbrandiaalinen-vatsakipu.-ei-halua-syödä.-gastroskopia-ja-kolonoskopia-normaalit.-ttssä-ei-tuumoria.-millä-tutkimuksella-pääset-todennäköisimmin-diagnoosiin
 potilaalla-n.-15cm-palpoituva-muutos-kilpirauhasessa.-ensilinjan-tutkimus
