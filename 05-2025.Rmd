@@ -149,7 +149,7 @@ Jos priapismi ei laukea kahden injektion jälkeen, potilas tulisi lähettää ur
 
 b: Kun virtsaa alkaa purkautua, katetria tulee työntää vielä n. 5 cm ennen kuin pallo täytetään, jotta tämä tapahtuu varmasti rakossa eikä virtsaputkessa
 
-c: Balongin täyttö EI saa saattua. Mikäli pallo täytetään virtsaputken tai eturauhasen alueella, potilas tuntee yleensä kipua. 
+c: Balongin täyttö EI saa sattua. Mikäli pallo täytetään virtsaputken tai eturauhasen alueella, potilas tuntee yleensä kipua. 
 
 d: Mikäli ei käytetä hydrofiilipäällysteistä veteen kostutettavaa katetria, pitää virtsaputki täyttää ennen katetrointia puuduttavalla ja liukastavalla geelillä. Miehelle sitä tarvitaan 20 ml, kun taas naiselle riittää muutama millilitra. Erityisesti miehelle geeli pitää ruiskuttaa tasaisen hitaasti, jotta se leviää myös ulkoisen sulkijan läpi takavirtsaputken alueelle. 
   </div>
@@ -227,7 +227,7 @@ Ei vaihtoehtoja, mutta koita vastata ilman vinkkejä
 
 Modifioitu parklandin kaava: 3ml x paino (kg) x TBSA (%) = arvioitu vuorokauden nesteentarve
 
-Arvioidaan, että potilaalla on vain rintakehän (eikä abdomenin eli puolikas yläkehon etuosasta) ja yläselän (ei alaselän  eli puolikas selästä) palovamma, joten voidaan sanoa, että rule of nines perusteella on yhteensä näiden suhteen 18% palovamma-alue. Jos molemmat yläraajat ovat palaneet kokonaan, niin siitäkin tulee 18% eli yhteensä potilaalla on 36% palanut (jos vain kädet, niin sitten olisi 2% eli yhteensä 20% ja nestetarve olisi). 
+Arvioidaan, että potilaalla on vain rintakehän (eikä abdomenin eli puolikas yläkehon etuosasta) ja yläselän (ei alaselän  eli puolikas selästä) palovamma, joten voidaan sanoa, että rule of nines perusteella on yhteensä näiden suhteen 18% palovamma-alue. Jos molemmat yläraajat ovat palaneet kokonaan, niin siitäkin tulee 18% eli yhteensä potilaalla on 36% palanut (jos vain kädet toiselta puolelta, niin sitten olisi 2% eli yhteensä 20%). 
 
 3ml x 70 x 36 = 7560 ml (jos pelkät kädet eikä koko yläraajat niin sitten 3ml x 70 x 20 = 4200). Tästä 50% annetaan ensimmäisen 8h aikana vamman aiheutumisesta ja loput seuraavan 16h aikana. Ringerillä jos ei ole hemodynaamisesti merkittävää vuotoa (lapsilla lisäksi G5-korjausneste rajallisempien maksan glykogeenivarastojen vuoksi)
 
@@ -273,7 +273,7 @@ Lääketieteen opiskelija kastellut lääkärintakkinsa bensalla ja sytyttänyt 
 
 Todennäköisesti kyseessä on aterooma (epidermaalikysta). Kyseessä on ihon taliretentiokysta, joka muodostuu laajentuneesta talirauhasesta tai karvatupesta, jonka tiehyt on mennyt umpeen. 
 
-Rauhallisen vaiheen aterooman hoito on poisto veneviillon kautta ja tämä toimenpide kuuluu yleislääkärin tehtäviin. Haava suljetaan, koska alueella ei rauhallisessa tilanteessa ole infektiota. Jos kyseessä on infektoitunut aterooma (abskessi), niin se poistetaan inkisiolla ja haava jätetään auki (harkinnan mukaan laittaa kumiliuskan tai Sorbact®- nauhaa); antibiootti aloitetaan myös. 
+Rauhallisen vaiheen aterooman hoito on poisto veneviillon kautta ja tämä toimenpide kuuluu yleislääkärin tehtäviin. Haava suljetaan, koska alueella ei rauhallisessa tilanteessa ole infektiota. Jos kyseessä on infektoitunut aterooma (abskessi), niin se poistetaan inkisiolla ja haava jätetään auki (harkinnan mukaan voi laittaa kumiliuskan tai Sorbact®- nauhaa); antibiootti aloitetaan myös. 
 
 ![](images/aterooma.png)
   </div>
@@ -283,7 +283,7 @@ Rauhallisen vaiheen aterooman hoito on poisto veneviillon kautta ja tämä toime
 
 Ei vaihtoehtoja, tässä aiheesta: 
 
-Syvän palovamman alueelle muodostuu panssarimainen, joustamaton kudos, eskar. Sirkulaarinen eskar raajojen alueella voi johtaa alla olevan kudoksen verenkierron salpaantumiseen ja iskemiaan, jolloin raajan elinkelpoisuus voi olla uhattuna. Rintakehän alueella eskar voi johtaa hengitystiepaineden nousuun ja potilaan ventilaation huononemiseen. Vatsan alueella eskar voi aiheuttaa vatsaontelon sisäisen paineen nousun ja johtaa suoli-iskemiaan ja munuaistoiminnan huononemiseen.
+Syvän palovamman alueelle muodostuu panssarimainen, joustamaton kudos, eskar. Sirkulaarinen eskar raajojen alueella voi johtaa alla olevan kudoksen verenkierron salpaantumiseen ja iskemiaan, jolloin raajan elinkelpoisuus voi olla uhattuna. Rintakehän alueella eskar voi johtaa hengitystiepaineiden nousuun ja potilaan ventilaation huononemiseen. Vatsan alueella eskar voi aiheuttaa vatsaontelon sisäisen paineen nousun ja johtaa suoli-iskemiaan ja munuaistoiminnan huononemiseen.
 
 - Jos nesteytys, kivunhoito, raajojen kohoasento yms ei auta, niin tarvitaan eskarotomia, jossa syvä palanut kudos halkaistaan
 - Eskarotomiat voidaan tehdä vuodeosasto-olosuhteissa tai teho-osastolla, kunhan on varauduttu verenvuodon hoitamiseen esimerkiksi diatermialla. Syvissä lihaskalvoon asti ulottuvissa palovammoissa ja sähköpalovammoissa tarvitaan usein myös faskiotomiat, ja nämä on syytä tehdä leikkaussalissa yleisanestesiassa.
