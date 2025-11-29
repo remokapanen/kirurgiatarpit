@@ -1,0 +1,23 @@
+--- 
+title: "Kirurgiatärpit"
+author: ""
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About 
+
+Tenttien formaatti on muuttunut niiden keräämisen alkuvuodesta lähtien huomattavasti. 
+
+- Vuosina 2013-2020 kysymykset olivat avonaisempia ja monivalintakysymyksiä ei pääasiassa ollut. 
+- Vuodesta 2021 lähtien taas tentit ovat koostuneet vain monivalintakysymyksistä. 
+  - Monivalintakysymysten kysymyksenasettelun ja vaihtoehtojen muistamisessa sekä vastausten tarjonnassa on kuitenkin ollut 2022 eteenpäin ongelmia, joten tässä gitbookissa olen formatoinut wikin tärpit niin, että niissä käydään myös vastaukset läpi ja jos tärpissä on puutteellisuuksia vaihtoehtojen tai kysymyksenasettelun suhteen, niin olen yrittänyt korvata näitä kirjoittamalla aiheesta tärkeimmät. 
+
+Toivottavasti tästä rebuildista on sinulle apua kerratessasi tenttiin. 
