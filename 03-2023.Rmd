@@ -304,6 +304,7 @@ Hoitona on leikkaus. Lippaluomen yläluomileikkauksessa poistetaan yläluomen al
   - Toiminnallinen näkökykyhaitta (kompensatorinen otsajännitys voi esim aiheuttaa estolääkitystä vaativan migreenin)
   - MRD-1 mitta <2mm (MRD = Margin-reflex distance. Iho peittää näkökenttää tulemalla alle 2 mm:n päähän mustuaisen valoheijasteesta/optiselta akselilta)
 
+![](images/mrd.png)
 ![](images/lippaluomi.png)
 
 ## Potilaalla selkeä virtsatiekivikohtaus + CRP 85 ja lämpö 38,5. → Miten toimit?
