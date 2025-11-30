@@ -248,6 +248,17 @@ Arvioidaan, että potilaalla on vain rintakehän (eikä abdomenin eli puolikas y
   </div>
 </div>
 
+## Eskarotomia
+
+Ei vaihtoehtoja, tässä aiheesta: 
+
+Syvän palovamman alueelle muodostuu panssarimainen, joustamaton kudos, eskar. Sirkulaarinen eskar raajojen alueella voi johtaa alla olevan kudoksen verenkierron salpaantumiseen ja iskemiaan, jolloin raajan elinkelpoisuus voi olla uhattuna. Rintakehän alueella eskar voi johtaa hengitystiepaineiden nousuun ja potilaan ventilaation huononemiseen. Vatsan alueella eskar voi aiheuttaa vatsaontelon sisäisen paineen nousun ja johtaa suoli-iskemiaan ja munuaistoiminnan huononemiseen.
+
+- Jos nesteytys, kivunhoito, raajojen kohoasento yms ei auta, niin tarvitaan eskarotomia, jossa syvä palanut kudos halkaistaan
+- Eskarotomiat voidaan tehdä vuodeosasto-olosuhteissa tai teho-osastolla, kunhan on varauduttu verenvuodon hoitamiseen esimerkiksi diatermialla. Syvissä lihaskalvoon asti ulottuvissa palovammoissa ja sähköpalovammoissa tarvitaan usein myös faskiotomiat, ja nämä on syytä tehdä leikkaussalissa yleisanestesiassa.
+
+![Eskarotomia](images/eskarotomia.png)
+
 ## Potilastapaus 
 
 Lääketieteen opiskelija kastellut lääkärintakkinsa bensalla ja sytyttänyt sen tuleen näyttäessään kurssikavereille pikku showta. Palovammoja rintakehällä, käsivarsissa ja yläselässä. Palovamma pohjalta vaalea, ei kapillaarireaktiota, ei tuntoa. Palovamman syvyyden arviointi:
@@ -267,6 +278,48 @@ Lääketieteen opiskelija kastellut lääkärintakkinsa bensalla ja sytyttänyt 
 
 ![](images/palovammaluokatleo.png)
 ![](images/palovammaluokatleokuvat.png)
+  </div>
+</div>
+
+## Sama kundi, kuinka suuri on palovamman pinta-ala? 
+
+- a. 57% 
+- b. 36% 
+- c. 20% 
+- d. 18%
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b
+     
+![](images/ruleofnines.png)
+  </div>
+</div>
+
+
+## Sama kundi, vaikeuksia hengityksessä. Rintakehä tunnoton ja paksuuntunu. Intuboitu, mutta ei vaikuta auttavan. Mikä toimenpide seuraavaksi?
+
+- a. Pleuradreeni
+- b. Eskarotomia 
+- c. Torakotomia 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b
+
+Syvän palovamman alueelle muodostuu panssarimainen, joustamaton kudos, eskar. Sirkulaarinen eskar raajojen alueella voi johtaa alla olevan kudoksen verenkierron salpaantumiseen ja iskemiaan, jolloin raajan elinkelpoisuus voi olla uhattuna. Rintakehän alueella eskar voi johtaa hengitystiepaineiden nousuun ja potilaan ventilaation huononemiseen. 
+
+Potilaan ventilaatio ei toimi intubaatiosta huolimatta, koska panssari estää rintakehän liikettä -> tarvitaan eskarotomia. 
+
+Eskarotomiat voidaan tehdä vuodeosasto-olosuhteissa tai teho-osastolla, kunhan on varauduttu verenvuodon hoitamiseen esimerkiksi diatermialla. Syvissä lihaskalvoon asti ulottuvissa palovammoissa ja sähköpalovammoissa tarvitaan usein myös faskiotomiat, ja nämä on syytä tehdä leikkaussalissa yleisanestesiassa.
+
+![Eskarotomia](images/eskarotomia.png)
   </div>
 </div>
 
@@ -291,17 +344,6 @@ Rauhallisen vaiheen aterooman hoito on poisto veneviillon kautta ja tämä toime
 ![](images/aterooma.png)
   </div>
 </div>
-
-## Eskarotomia
-
-Ei vaihtoehtoja, tässä aiheesta: 
-
-Syvän palovamman alueelle muodostuu panssarimainen, joustamaton kudos, eskar. Sirkulaarinen eskar raajojen alueella voi johtaa alla olevan kudoksen verenkierron salpaantumiseen ja iskemiaan, jolloin raajan elinkelpoisuus voi olla uhattuna. Rintakehän alueella eskar voi johtaa hengitystiepaineiden nousuun ja potilaan ventilaation huononemiseen. Vatsan alueella eskar voi aiheuttaa vatsaontelon sisäisen paineen nousun ja johtaa suoli-iskemiaan ja munuaistoiminnan huononemiseen.
-
-- Jos nesteytys, kivunhoito, raajojen kohoasento yms ei auta, niin tarvitaan eskarotomia, jossa syvä palanut kudos halkaistaan
-- Eskarotomiat voidaan tehdä vuodeosasto-olosuhteissa tai teho-osastolla, kunhan on varauduttu verenvuodon hoitamiseen esimerkiksi diatermialla. Syvissä lihaskalvoon asti ulottuvissa palovammoissa ja sähköpalovammoissa tarvitaan usein myös faskiotomiat, ja nämä on syytä tehdä leikkaussalissa yleisanestesiassa.
-
-![Eskarotomia](images/eskarotomia.png)
 
 ## Babysitter-proseduuri 
 
@@ -473,7 +515,7 @@ Ei vaihtoehtoja, mutta koita vastata ilman vinkkejä
     Vastaus
   </button>
   <div class="solution-content">
-     HUS
+     HUS (Jorvi)
 
 Laajojen palovammojen hoito on keskitetty Suomessa HUSin palovammakeskukseen
 
@@ -530,12 +572,13 @@ Laskimovajaatoiminnan vaikeusaste voidaan kuvata tarkasti CEAP-luokitusta (CEAP 
 
 ## Potilastapaus 
 
-Joku käynyt viikko sitten Turkissa kauneusleikkauksissa. Tehty ehkä kasvojuttuja, vatsajuttuja ja peppujuttuja. Nyt kuumetta ja CRP nousu, virtsanäytteessä Eryt+ ja leuk +. Kaikki muut leikkauskohat näytti ok mutta peppu fluktuoi ja punoittaa. Mikä on infektion lähde?
+27v ollut Turkissa kauneusleikkauksissa. Tehty 450cc rintaimplantit, abdominoplastia ja rasvansiirto takamukseen. Nyt potilas huonovointinen ja kuumeinen, epäilyksenä bakteerisepsis. Rinnan palpoiden aristamattomat, ei kuumotusta ja yhtä isot. Vatsan leikkausarvessa aukile, mutta muuten siisti vatsan alueen status. Oikea pakara isompi kuin vasen, on myös kova ja aristava. Leuk 23, CRP 200. Mikä on infektiofokus? 
 
-- a. perse
-- b. vti
-- c. keskushermosto 
-- d. joku 
+- a. Pakara 
+- b. Rinnat
+- c. Vatsa
+- d. Virtsatieinfektio
+
 
 <div class="solution">
   <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
@@ -544,6 +587,303 @@ Joku käynyt viikko sitten Turkissa kauneusleikkauksissa. Tehty ehkä kasvojuttu
   <div class="solution-content">
      a
 
-Varmaan jäänyt jotain piirteitä muistamatta kysymyksen suhteen, mutta todennäköisesti kyseessä on postoperatiivinen haavainfektio gluteusalueella. Klaffataan haava auki ja otetaan bakteeriviljely. Vaatinee iv-ab hoitoa, jos CRP selvästi koholla.
+Todennäköisesti kyseessä on postoperatiivinen infektio gluteusalueella, koska muut leikkausalueet ovat siistit. 
   </div>
 </div>
+
+## Dermatofibrooma
+
+Olet poistanut potilaalta ihomuutoksen 5mm marginaalein ja PAD-lausunnossa marginaalit siistit 1mm. Lausunnon mukaan kyseessä oli dermatofibrooma. Mikä on oikein muutoksen suhteen? 
+
+- a. Muutos tarvitsee seurantaa
+- b. Kyseessä on syövän esiaste 
+- c. Muutos on hyvänlaatuinen
+- d. Tarvitaan re-ekskisio 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     c
+
+Dermatofibrooma eli histiosytooma on hyvin yleinen hyvänlaatuinen ihokasvain, jossa dermiksen fibroblastit eli sidekudossolut proliferoituvat yleisimmin ihotrauman tai hyönteisen piston jälkeisenä reaktiona.
+
+Dermatofibroomia nähdään useimmin raajojen ääreisosissa, reisissä ja selässä 3–10 mm:n kokoisina muutoksina. Dermatofibrooma voi olla ihon värinen, vaaleanpunainen, ruskea tai jopa sinertävä. Usein sen reunoilla on tummempi pigmentti ja se kuoppautuu puristettaessa (pinch-oire)- Dermatofibrooma tuntuu arpimaisen kiinteältä tai jopa kovalta. Muutos voi olla ihontasoinen tai nousta koholle ihon pinnan tasosta.
+
+Tumma dermatofibrooma voi muistuttaa melanoomaa. Jos diagnoosista ei ulkonäön ja tunnustelun perusteella voi olla varma, muutos on parasta poistaa histologista tutkimusta varten. Hoito (ekskisio tai jäädytys) ei kuitenkaan ole tarpeen lääketieteellisistä syistä, koska kyseessä on hyvänlaatuinen muutos. 
+
+![](images/dermatofibrooma.png)
+  </div>
+</div>
+
+## Potilastapaus 
+
+23-vuotias lääketieteenopiskelija tulee vastaanotolle ja toteat hänellä tulehtuneen ja kivuliaan paiseen pakaravaossa. Potilaalla on karvainen takamus ja hän istuu suuren osan päivästään. Mitä teet ensisijaisesti?
+
+- a. lähete kirurgialle 
+- b. punktoit tyhjäksi
+- c. inkiisio ja tyhjennys 
+- d. seuranta 
+- e. suosittelen karvojen poistoa
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     c
+
+Kyseessä on pakaravaon absessi, joka voi kehittyä sinus pilonidalikseksi, joka on hankittu sairaus, jossa ihokarvat, hilse tai vaatteiden nöyhtä aiheuttavat ihonalaisen onkalon pakaravakoon. Sille tärkein altistava tekijä on syvä ja karvainen pakaravako. Tämän vuoksi se on miehillä noin neljä kertaa yleisempi kuin naisilla.
+
+Arviolta noin 60 % potilaista paranee absessin hoidon jälkeen, mutta 40 %:lle kehittyy sinus pilonidalis.
+
+Pelkän pakaravaon absessin ensisijainen hoito on absessin avaaminen ja tyhjennys. Absessi avataan kunnolla, märkä poistetaan ja samalla olisi poistettava karvat ja débris, jota absessiontelossa on. Jos karvat jätetään märkäonteloon, on sinus pilonidaliksen kehittyminen todennäköistä. 
+
+Jälkihoitona ovat suihkutus ja pakaravaon karvojen ajelu sekä siteen vaihdot. 
+
+![](images/pilonidalis.png)
+  </div>
+</div>
+
+## Potilastapaus 
+
+Potilaalla DM2, spinaalistenoosi, ASO-tauti. Kokee alaraajoissa yöllistä leposärkyä, puutumista ja kihelmöintiä. ADP +, ATP +. Mistä oireet johtuvat? 
+
+- a. Spinaalistenoosi
+- b. Perifeerinen neuropatia 
+- c. Kriittinen iskemia 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b
+
+Yöllinen kihelmöinti ja puutuminen ovat tyypillisiä diabeettiselle neuropatialle. 
+
+a: Spinaalistenoosin kipu ja oireet ei tyypillisesti ole pahimpia yöllä maatessa, vaan enemmänkin kävellessä/seistessä/ekstensiossa ja oireita helpottaa etunoja-asento. 
+
+c: Jalkapulssit tuntuvat, joten merkittävä ASO-tauti on poissuljettu.
+  </div>
+</div>
+
+
+## Potilaalla C6-laskimovajaatoiminta. Mitä tämä tarkoittaa? 
+
+- a. Potilaalla komplisoitumaton laskimovajaatoiminta
+- b. Potilaalla turvotusta alaraajoissa
+- c. Potilalla avoin laskimoperäinen säärihaava 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     c
+
+a: C1-C3 = komplisoitumaton 
+
+b: Turvotus = C3
+
+![](images/cluokitus.png)
+  </div>
+</div>
+
+
+## Mikä on oikein oireettomasta bakteriuriasta? 
+
+- a. Esiintyy kaikilla kestokatetrisilla
+- b. Ei tarvitse hoitaa
+- c. Hyvin yleistä hoitokodeissa
+- d. Kaikki oikein
+
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     d
+
+a: Pitkäaikasesti katetroiduilla lähes kaikilta löytyy bakteereita virtsasta. 
+
+b: Oireettoman bakteriurian hoito turhaan ilmeisesti lisää oireisten virtsatieinfektioiden ilmaantuvuutta. Oireetonta bakteriuriaa on syytä etsiä ja hoitaa vain raskaana olevilta naisilta. 
+
+c: Ympärivuorokautisessa hoidossa olevalta vanhukselta otetaan virtsaviljely käytännössä vain silloin, kun kliinisen tilanteen perusteella on jo tehty päätös hoitaa VTI:tä. Oireettoman bakteriurian yleisyyden takia virtsaviljely ei antaisi tarvittavaa tietoa, jos ei olisi selkeitä oireita. 
+  </div>
+</div>
+
+## Mikä ei aiheuta vanhalle miehelle virtsaumpea? 
+
+- a. Rankka urheilusuoritus
+- b. Sympatomimeettiset (nuha) lääkkeet
+- c. Anestesia
+- d. Virtsatietulehdus
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     a
+
+b: Nuhalääkkeinä käytettävät oraaliset dekongestatin (esim. pseudoefedriini) voivat aiheuttaa sympatomimeettisen vaikutuksensa kautta virtsaumpea. 
+
+c: Leikkauksen jälkeen virtsaumpi on melko tavallinen ilmiö. Sitä on todettu eri tutkimuksissa yleiskirurgiassa 4–24 %:lla potilaista. Ummen syynä on anestesia-aineiden suora vaikutus sekä keskushermostoon että perifeerisiin ganglioihin ja leikkauskivun aiheuttama suora reflektorinen esto. Spinaalipuudutus, nukutusaineet sekä leikkauksen jälkeisen kivun hoidossa käytettävät lääkkeet sekä lamaavat virtsausheijastetta että häiritsevät rakon täyttymisen aistimista. 
+
+d: Infektion aiheuttama turvotus voi aiheuttaa tukoksen tai heikentää rakon lihaksia. 
+  </div>
+</div>
+
+
+## Kivessyövän levinneisyyskuvantaminen? 
+
+- a. Vartalon MRI
+- b. Vartalon TT 
+- c. Vatsan ja keuhkojen natiivirtg
+- d. PET-TT
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b
+
+Ensisijainen kivessyövän kuvantamistutkimus on kivespussin kaikukuvaus. Jos syöpä todetaan, niin TT tehdään levinneisyystutkimuksena kaikille potilaille, koska sen herkkyys etäpesäkkeiden osoittamisessa on hyvä.
+  </div>
+</div>
+
+## Mikä ei ole kroonisen nonbakteriellin prostatiitin tyypillinen oire? 
+
+- a. Kiveskipu
+- b. Peniskipu
+- c. Tihentynyt virtsaamistarve
+- d. Pyuria
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     d
+
+Tyypillistä on juuri sukuelinten kivut ja tihentynyt virtsaamistarve ja kirvely virtsatessa. Pyurian (valkosoluja virtsassa) perusteella krooninen nonbakterielli prostatiitti (CPPS, tyypin 3 prostatiitti) voidaan jakaa kahteen alatyyppiin: 
+
+Tyyppi 3a = Tulehduksellisessa alatyypissä potilailla on valkosoluja eturauhasen eritteessä, virtsassa tai siemennesteessä
+
+Tyyppi 3b =  Ei-tulehduksellisessa tyypissä tulehdussoluja ei todeta 
+
+Tyypillisesti, kun CPPS:ssä otetaan virtsanäyte, niin se on steriili ja valkosoluja ei todeta. Sen jälkeen voidaan hieroa eturauhasta ja tutkia virtsa uudestaan (PPMT, pre and post massage test). Hierominen usein aiheuttaa pyurian ja tämän perusteella CPPS voidaan jakaa toiseen luokkaan.
+
+Pyuria ei siis tyypillisesti ole todettavissa ilman eturauhasen hieromista, jonka takia vastaus on pyuria. Pyuria ei sinänsä myöskään ole oire, vaan löydös. 
+  </div>
+</div>
+
+## Uroteelisyövän keskeisin kuvantamismenetelmä? 
+
+- a. Kontrastiton TT
+- b. MRI 
+- c. Kolmivaihe-TT
+- d. UÄ
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     c
+
+Uroteelisyövän ensisijainen ja tärkein kuvantamismenetelmä on virtsaelinten kolmivaiheinen varjoainetehosteinen tietokonetomografia, eli CT-urografia. Rakkosyövän suhteen virtsarakon tähystys eli kystoskopia on tärkein tutkimus, mutta ylävirtsateiden kuvantaminen kaikututkimuksella tai yleisemmin TT-urografialla tehdään kaikille potilaille
+
+a: Kontrastiton TT akuuttien virtsatiekivien tutkimisessa¨
+
+d: UÄ kyllä usein tehdään, mutta TT on tärkeämpi.
+  </div>
+</div>
+
+
+## Potilastapaus 
+
+Potilaalla alkaa olemaan näköongelmia, koska luomi laskee silmän päälle. Ei yläluomen ihoylimäärää, kulmakarva supraorbital ridgen ylärajan päällä. MDR1-mitta levossa 1mm, maksimaalisessa luomen kohotuksessa otsa neutraloituna 5mm. Mikä korjaus potilaalle? 
+
+- a. Levatorlihaksen lyhennys 
+- b. Blefaroplastia 
+- c. lateral kantopeksia
+- d. otsan kohotus
+- e. kulmakarvan kohotus 
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     a
+
+Tässä kuvataan ptoosia eli riippuluomea. Jos se on ns. seniili (vuosien aikana kehittynyt levatorin venymisestä johtuva), niin sen hoito on leikkaus. Yksi leikkausvaihtoehto on levatorin lyhennys eli resektio, jossa riippuva yläsilmäluomi korjataan lyhentämällä sen levator-lihasta.
+
+b: Lippaluomen korjaus. Potilaalla ei yläluomen ihoylimäärää, joka viittaisii lippaluomeen.
+
+c: Yksi ektropiumin mahdollisista korjausleikkauksista.
+
+d: Kulmakarvat ovat ainakin miehillä normaalisti supraorbital rimin ylärajalla, naisilla ehkä normaalisti hieman korkeammalla. Jos kulmakarvan roikkuminen aiheuttaisi ptoosin, olisi tila ns. "brow ptosis" ja sen hoitona voi olla avoin kulmakarvan kohotus, sisäinen browpeksia tai otsan kohotus. 
+
+![](images/ptoosi.png)
+  </div>
+</div>
+
+## Potilastapaus 
+
+Koira purrut potilasta aikaisemmin tänään kasvoihin, nyt potilas tullut päivystykseen. Otsan rypistys onnistuu, silmien sulkeminen/avaaminen normaalia. Oikea alahuuli roikkuu, huulien puristaminen pussausasentoon vaikeaa, mutta muuten alakasvojen motoriikka normaalia. Mikä on terävän hermovaurion ensisijainen korjaus? 
+
+- a. Cross-facial nerve graft 
+- b. Vaurioituneen hermon eksploraatio ja korjaus 
+- c. Joku staattinen korjaus 
+- d. Kasvolihasten kuntoutus ja leikkaus mahdollisesti myöhemmin
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b
+
+Kasvohermon alemmat haarat, kuten marginal mandibular voi olla vaurioitunut ja aiheuttaa suupielen roikkumista.  Terävä vamma – katkeaminen, trauma, iatrogeeninen -> välitön korjaus (1-7pv) tai babysitter (joko cross-nerve graft, hypoglossus tai masseter). 
+
+a: Suora korjaus on ensisijainen, jos se on mahdollinen. Babysitter ja cross-facial nerve graftit parempia jos vamma tapahtui hetki sitten ja/tai suora korjaus ei ole mahdollista. 
+
+c: Staattiset korjauksen korjaavat kasvojen asentoa ja lievittävät halvauksen haittoja, mutta ne eivät korjaa hermovauriota. 
+
+d: Tylpässä vammassa usein alkuvaiheessa seuranta, mutta välitöntä korjausta harkitaan tässäkin tilanteessa (konsultoi herkästi)
+  </div>
+</div>
+
+
+## Potilastapaus 
+
+Potilaalla 5v sitten aivoinfarkti, jonka seurauksena tullut oikean puolen facialispareesi ja juominen ei ole onnistu, koska oikea puoli roikkuu. Mikä korjaus aiheellinen? 
+
+- a. Babysitter
+- b. Oikean suupielen staattinen nosto 
+- c. Ylähuulen kultapaino
+- d. Botuliinitoksiini-injektio
+
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     b
+
+Tässä vaiheessa 5v vaurion jälkeen hermo-lihasyhteys on menetetty pysyvästi (reinnervaatiota ei enää tapahdu). 
+
+a: Dynaamiset ratkaisut kuten "babysitter“ (masseteric–facial anastomoosi) eivät enää toimi, koska menetettyjen lihasten motoriset yksiköt ovat surkastuneet
+
+c: Gold plate on tarkoitettu ylemmän silmäluomen sulkupuutteeseen, ei suupielen roikkumiseen.
+
+d: Botuliinitoksiini voi tasapainottaa virheasentoa vastakkaisella puolella, mutta se ei korjaa roikkuvaa puolta eikä juomisen ongelmaa.
+  </div>
+</div>
+
