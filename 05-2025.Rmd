@@ -102,14 +102,27 @@ Tärkein riskitekijä on tupakointi. Muita riskitekijöitä ovat lihavuus ja kor
 
 ## PSA 2, millä vapaan PSA:n arvolla on merkittävä eturauhassyövän riski?
 
-Ei vaihtoehtoja, mutta tässä pohdintaa: 
+- a. Eturauhassyövän riski on merkittävä vapaasta PSA:sta riippumatta 
+- b. Kun suhde on >25% 
+- c. Kun suhde on <10%
+- d. Eturauhassyövän riskiä ei ole, koska kokonais-PSA on niin matala 
 
-Vapaan PSA:n osuuden pieneneminen auttaa diagnostiikassa (mitataan automaattisesti jos PSA 2-15; ei kuitenkaan oikein diagnostista merkitystä, jos kokonais-PSA >10). Jos suhde on välillä 4-10 <10%, on riski syövälle yli 50%. Jos suhde on >25%, niin riski alle 10%. 
 
-- Kokonais-PSA-pitoisuuden ollessa alle 3 µg/l (ns. seulontanegatiivinen) on vapaan PSA:n osuuden merkitys ollut epäselvä, mutta ilmeisesti vapaa PSA kertoo eturauhassyövän riskistä myös kokonais-PSA-arvon ollessa alle 3 µg/l.
-- Vapaan PSA:n osuuden kliininen merkitys on kuitenkin pienentynyt magneettikuvauksen ja muiden menetelmien käytön yleistyessä. Eturauhassyöpäriskiä arvioitaessa kokonais-PSA on selvästi tärkeämpi ja pelkästään pieni vapaan PSA:n osuus ei ole aihe lisätutkimuksiin, jos kokonais-PSA on normaali.
+<div class="solution">
+  <button class="solution-button" data-label="Vastaus" data-hide-label="Piilota vastaus">
+    Vastaus
+  </button>
+  <div class="solution-content">
+     d (ehkä c)
 
-Yleisesti voi ajatella, että eturauhassyöpäriski on koholla, jos vapaa-psa/kokonais-psa-suhde on <15% (viitearvo >15%). Eli jos vapaa psa on  yli 0.3, niin eturauhassyövän riskin voi ajatella tässä tapauksessa olevan koholla. 
+Huonosti sanoitettu vaihtoehto d (yksiselitteinen "ei ole"; eturauhassyöpää ei pysty poissulkea PSA-arvolla). Todennäköisesti kuitenkin on haettu sitä, että 
+Vapaan PSA:n osuuden pieneneminen auttaa diagnostiikassa (mitataan automaattisesti labrasta riippuen silloin jos PSA on 2.5-10 tai TYKSLabissa jopa kun 2-15. **Eturauhassyöpäriskiä arvioitaessa kokonais-PSA on selvästi tärkeämpi ja pelkästään pieni vapaan PSA:n osuus ei ole aihe lisätutkimuksiin, jos kokonais-PSA on normaali (kuten nyt tässä).**
+
+c: Kokonais-PSA-pitoisuuden ollessa alle 3 µg/l (ns. seulontanegatiivinen) on vapaan PSA:n osuuden merkitys ollut epäselvä, mutta ilmeisesti vapaa PSA kertoo eturauhassyövän riskistä myös kokonais-PSA-arvon ollessa alle 3 µg/l. Vapaan PSA:n osuuden kliininen merkitys on kuitenkin pienentynyt magneettikuvauksen ja muiden menetelmien käytön yleistyessä. 
+
+Jos suhde on välillä 4-10 <10%, on riski syövälle yli 50%. Jos suhde on >25%, niin riski alle 10%. 
+  </div>
+</div>
 
 ## Priapismi hoito:
 
