@@ -873,13 +873,19 @@ Munuaissyövän tärkeimmät riskitekijät ovat tupakointi (tärkein), lihavuus 
 
 Ei vaihtoehtoja, tässä mahdollinen toimintamalli: 
 
-1) Anamneesi + status (tuseeraus myös)
+1) Anamneesi + status (tuseeraus myös), mahdollisesti nopeasti PVK, krea, U-Kemseul
 
-2) Labrat: U-KemSeul, U-Solut x2, U-BaktVi
+2) Kiireellinen lähete urologialle, jos verivirtsaisuus ei haittaa virtsaamista tai on väistynyt. Avoterveydenhuollon lisätutkimuksia ei aina suositella, vaan ne usein ohjelmoidaan urologian poliklinikan toimesta (riippuu paikasta). 
 
-3) Makrohematurian aiheuttaja on löydettävissä yli 90 %:ssa tapauksista. Tärkeimpiä poissuljettavia sairauksia ovat virtsateiden kasvaimet sekä glomerulussairaudet. Tulee aina tehdä lähete urologisiin jatkotutkimuksiin, ellei syy ole virtsatietulehdus tai verikontaminaatio. Edeltävästi on suositeltavaa ohjelmoida virtsan irtosolututkimus ja munuaisten kaikututkimus. Jos epäillään IgA-nefropatiaa (samanaikainen valkuaisvirtsaisuus, alentunut eGFR, korkea verenpaine), laaditaan lähete nefrologille
+2.5) Päivystyslähete, jos makroskooppinen hematuria aiheuttaa hyytymiä tai estää normaalia virtsaamista. 
+
+3) Urologialla Labrat ja kuvantaminen: Virtsan sytologia, U-BaktVi, U-Solut x2; tärkeimpänä kystoskopia ja TT-urografia 
+
+Makrohematurian aiheuttaja on löydettävissä yli 90 %:ssa tapauksista. Tärkeimpiä poissuljettavia sairauksia ovat virtsateiden kasvaimet sekä glomerulussairaudet. Tulee aina tehdä lähete urologisiin jatkotutkimuksiin, ellei syy ole selkeä virtsatietulehdus nuorella naisella tai verikontaminaatio. Joidenkin ohjeiden mukaan on edeltävästi suositeltavaa ohjelmoida virtsan irtosolututkimus ja munuaisten kaikututkimus, mutta joidenkin mukaan taas ohjelmointi tapahtuu urologian poliklinikan toimesta. Jos epäillään IgA-nefropatiaa (samanaikainen valkuaisvirtsaisuus, alentunut eGFR, korkea verenpaine), laaditaan lähete nefrologille.
 
 Ei siis ole tarvetta todennäköisesti päivystyksellisille toimille (kystoskopia kiireellisenä on seuraava), koska verenvuoto hematuriassa ei usein ole massiivista. Makroskooppiseen hematuriaan vaaditaan vain 1 ml verta / 1 000 ml virtsaa. Jos hyytymiä tai rakko ei pysty tyhjentymään, niin vaatii päivystyksellistä hoitoa ja asetetaan huuhtelukatetri.  
+
+![](images/rakkosyöpä.png)
 
 ## Reumaatikolla sääressä laskimoverta vuotava haava, antikoagulaatio. Mitä teet? 
 
