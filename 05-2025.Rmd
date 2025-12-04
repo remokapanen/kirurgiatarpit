@@ -158,13 +158,17 @@ Jos priapismi ei laukea kahden injektion jälkeen, potilas tulisi lähettää ur
     Vastaus
   </button>
   <div class="solution-content">
-     a
+     b 
+     
+Mikään vastauksista ei ole täysin oikein, mutta ehkä b on lähimpänä oikeaa.
 
-b: Kun virtsaa alkaa purkautua, katetria tulee työntää vielä n. 5 cm ennen kuin pallo täytetään, jotta tämä tapahtuu varmasti rakossa eikä virtsaputkessa
+a: Katetria ei työnnnetä "kokonaan" virtsarakkoon, vaan vain sen pään ja balongin tulee olla virtsarakossa. 
+
+b: Kun virtsaa alkaa purkautua, katetria tulee työntää vielä n. 5 cm ennen kuin pallo täytetään, jotta tämä tapahtuu varmasti rakossa eikä virtsaputkessa. Kun virtsaa alkaa tulemaan katetrista, niin se on rakossa ja on kuitenkin periaatteessa tarpeeksi syvällä. 
 
 c: Balongin täyttö EI saa sattua. Mikäli pallo täytetään virtsaputken tai eturauhasen alueella, potilas tuntee yleensä kipua. 
 
-d: Mikäli ei käytetä hydrofiilipäällysteistä veteen kostutettavaa katetria, pitää virtsaputki täyttää ennen katetrointia puuduttavalla ja liukastavalla geelillä. Miehelle sitä tarvitaan 20 ml, kun taas naiselle riittää muutama millilitra. Erityisesti miehelle geeli pitää ruiskuttaa tasaisen hitaasti, jotta se leviää myös ulkoisen sulkijan läpi takavirtsaputken alueelle. 
+d: Uretraa pitkin on tuntoa. Mikäli ei käytetä hydrofiilipäällysteistä veteen kostutettavaa katetria, pitää virtsaputki täyttää ennen katetrointia puuduttavalla ja liukastavalla geelillä. Miehelle sitä tarvitaan 20 ml, kun taas naiselle riittää muutama millilitra. Erityisesti miehelle geeli pitää ruiskuttaa tasaisen hitaasti, jotta se leviää myös ulkoisen sulkijan läpi takavirtsaputken alueelle. 
   </div>
 </div>
 
